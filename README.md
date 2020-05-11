@@ -20,4 +20,5 @@ limitations under the License.
 
 Public holidays in the Netherlands in 2020
 
-There are 11 National Holidays
+There are 11 National Holidays. 
+Calling a month, the function aims to represent holidays which are held in that particular month.  
