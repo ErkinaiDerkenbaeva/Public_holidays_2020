@@ -8,4 +8,4 @@ def holiday_announcer(month):
                                                      26: ["St.Stephen's Day"]}}
     print(f'The Holidays on the Month of {month} is/are: ')
 
-    return list(Holidays[month].values())
+    return list( Holidays[month].values())
